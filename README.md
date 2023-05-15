@@ -7,3 +7,5 @@
 3. Run the command in the terminal `npm start`.
 
 4. Now you can check the app.
+
+# Live link: https://taiyo-app.netlify.app/
